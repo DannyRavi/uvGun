@@ -1,6 +1,4 @@
-//MN Maker
-//Laser Temp Gun
-//10.6.19
+
 
 #include <Wire.h>
 
